@@ -1,0 +1,42 @@
+*{margin:0;padding:0;}
+section#mainSection {
+    width: 1170px;
+    margin: 0 auto;
+}
+header.mainHeader {
+    background: #232323;
+    color: white;
+    padding: 1px;
+    font-size: 18px;
+    font-family: arial;
+}
+.side_bar {
+    width: 300px;
+    float: right;
+    height: 100%;
+    overflow: hidden;
+    background: gray;
+    color: white;
+    text-align: center;
+    padding: 237px 0;
+}
+footer.footer {
+    background: #232323;
+    color: white;
+    font-size: 15px;
+    font-family: arial;
+    margin-top: -19px;
+}
+footer.footer h1 {
+    padding: 13px;
+}
+.paragraph {
+    padding: 30px;
+    width: 811px;
+    background: #efefef;
+    text-align: justify;
+    font-size: 20px;
+}
+header.mainHeader h1 {
+    padding: 21px;
+}
